@@ -1,0 +1,6 @@
+C:\Users\sgrabovschi\documents\visual studio 2013\Projects\LEDApp\LEDApp\bin\Debug\LEDApp.dll.config
+C:\Users\sgrabovschi\documents\visual studio 2013\Projects\LEDApp\LEDApp\bin\Debug\LEDApp.dll
+C:\Users\sgrabovschi\documents\visual studio 2013\Projects\LEDApp\LEDApp\bin\Debug\LEDApp.pdb
+C:\Users\sgrabovschi\documents\visual studio 2013\Projects\LEDApp\LEDApp\obj\Debug\LEDApp.csprojResolveAssemblyReference.cache
+C:\Users\sgrabovschi\documents\visual studio 2013\Projects\LEDApp\LEDApp\obj\Debug\LEDApp.dll
+C:\Users\sgrabovschi\documents\visual studio 2013\Projects\LEDApp\LEDApp\obj\Debug\LEDApp.pdb
